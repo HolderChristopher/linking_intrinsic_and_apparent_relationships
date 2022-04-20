@@ -1,4 +1,4 @@
-# linking_intrinsic_and_apparent_relationships
+# Project Description
 This project focuses on the research from the following journal article:
 
 Holder, C. and Gnanadesikan, A.: Can machine learning extract the mechanisms controlling phytoplankton growth from large-scale observations? – A proof-of-concept study, Biogeosciences, 18, 1941–1970, https://doi.org/10.5194/bg-18-1941-2021, 2021.
